@@ -1,3 +1,4 @@
 # Git Course
 
-Este é um repositório texte
+Este é um repositório texte.
+Saiba mais
